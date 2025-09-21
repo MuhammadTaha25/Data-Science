@@ -31,16 +31,6 @@ It processes patient data, analyzes important features, handles outliers, and ap
 
 📊 Results
 
-The regression model successfully predicts cancer severity with good accuracy.
-
-Outliers were identified and managed to improve model performance.
-
-Visualizations provide insights into data distribution and relationships.
-
-🔮 Future Improvements
-
-Try advanced regression models (Ridge, Lasso, XGBoost, etc.)
-
-Apply feature engineering to improve predictions
-
-Deploy as a web app (using Streamlit/Flask)
+   The regression model successfully predicts cancer severity with good accuracy.
+   Outliers were identified and managed to improve model performance.
+   Visualizations provide insights into data distribution and relationships.
